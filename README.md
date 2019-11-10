@@ -1,5 +1,5 @@
-# Programing For Problem Solving.
-## Project File
+# PROGRAMMING FOR PROBLEM SOLVING.
+## PROJECT FILE
 ![](/images/Gndec.jpg)
 
 # My Details:
@@ -19,7 +19,7 @@ int main(){
     return 0;
 }
 ```
-![](/images/1.jpg)
+![](/images/1.PNG)
 ---
 ## 2. To print college address
 
