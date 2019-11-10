@@ -229,19 +229,30 @@ int main(){
 ---
 ## 11. To check whether entered year is leap year or not
 ```C
-#include<stdio.h>
-int main(){
-    int year;
-    printf("Enter Year :- ");
-    scanf("%d",&year);
-    if(year%4==0){
-        printf("Entered Year is a leap year");
-    }
-    else{
-        printf("Entered year is not a leap year");
-    }
-    return 0;
-}
+#include <stdio.h>       
+int main()        
+{            
+    int year;          
+    printf("Enter a year: ");        
+    scanf("%d",&year);         
+    if(year%4 == 0)             
+    {                  
+        if( year%100 == 0)             
+        {                          
+            // year is divisible by 400, hence the year is a leap year         
+            if ( year%400 == 0)                      
+                printf("%d is a leap year.", year);       
+            else            
+                printf("%d is not a leap year.", year);       
+        }      
+        else             
+            printf("%d is a leap year.", year );        
+    }        
+    else             
+        printf("%d is not a leap year.", year);      
+    return 0;         
+}               
+
 ```
 ![](/images/11.jpg)
 ---
