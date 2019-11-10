@@ -254,7 +254,7 @@ int main()
 }               
 
 ```
-![](/images/11.jpg)
+![](/images/11.JPEG)
 ---
 ## 12. To generate table of 5
 ```C
