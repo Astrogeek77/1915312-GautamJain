@@ -2,7 +2,7 @@
 ## Project File
 ![](/images/Gndec.jpg)
 
-# My Details
+# My Details:
 ### Name :- Gautam Jain
 ### Branch :- CSE C1
 ### Roll number :- 1915312
