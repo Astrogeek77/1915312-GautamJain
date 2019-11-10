@@ -3,7 +3,7 @@
 ![](/images/Gndec.jpg)
 
 # My Details
-### Name :- Avninder Preet Singh
+### Name :- Gautam Jain
 ### Branch :- CSE C1
 ### Roll number :- 1915312
 ## My Written Programs:-
@@ -14,7 +14,7 @@
 #include<stdio.h>
 int main(){
     puts("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
-    puts("My Name is Avninder Preet Singh\n");
+    puts("My Name is Gautam Jain\n");
     puts("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
     return 0;
 }
