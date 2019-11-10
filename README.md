@@ -7,8 +7,11 @@
 ### Branch :- CSE C1
 ### Roll number :- 1915312
 ## My Written Programs:-
+## Submitted to:
+- Ms Goldendeep Kaur
+- HS Rai
 
-## 1. To Print your name using puts
+## 1. To Print your name using puts():
 
 ```C
 #include<stdio.h>
@@ -21,7 +24,7 @@ int main(){
 ```
 ![](/images/1.PNG)
 ---
-## 2. To print college address
+## 2. Program to Print College Address in muliple lines:
 
 ```C
 #include<stdio.h>
@@ -34,7 +37,7 @@ int main(){
 ```
 ![](/images/2.jpg)
 ---
-## 3. Addition of two numbers input by user
+## 3. Addition of two numbers input by user:
 
 ```C
 #include<stdio.h>
@@ -51,7 +54,7 @@ int main(){
 ```
 ![](/images/3.jpg)
 ---
-## 4. Program to compute quotient and remainder
+## 4. Program to compute quotient and remainder:
 
 ```C
 #include<stdio.h>
@@ -70,7 +73,7 @@ int main(){
 ```
 ![](/images/4.jpg)
 ---
-## 5. Program to swap two numbers without third variable
+## 5. Program to swap two numbers without third variable:
 
 ```C
 #include<stdio.h>
@@ -89,7 +92,7 @@ int main(){
 ```
 ![](/images/5.jpg)
 ---
-## 6. Program to check number is even or odd
+## 6. Program to check if a input number is even or odd:
 
 ```C
 #include<stdio.h>
@@ -108,7 +111,7 @@ int main(){
 ```
 ![](/images/6.jpg)
 ---
-## 7. Finding greatest of two numbers
+## 7. Program to find greatest of two numbers:
 
 ```C
 #include<stdio.h>
@@ -132,7 +135,7 @@ int main(){
 ```
 ![](/images/7.jpg)
 ---
-## 8. To find greatest of three entered numbers
+## 8. Program to find greatest of three entered numbers:
 
 ```C
 #include<stdio.h>
@@ -158,7 +161,7 @@ int main(){
 ```
 ![](/images/8.jpg)
 ---
-## 9. To print grade of a student by entering marks
+## 9. To print grade of a student by entering marks:
 
 ```C
 #include<stdio.h>
@@ -195,7 +198,7 @@ int main(){
 ```
 ![](/images/9.jpg)
 ---
-## 10. To find roots of entered quadratic equation
+## 10. Program To find roots of entered quadratic equation:
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -227,7 +230,7 @@ int main(){
 ```
 ![](/images/10.jpg)
 ---
-## 11. To check whether entered year is leap year or not
+## 11. Program to check whether entered year is leap year:
 ```C
 #include <stdio.h>       
 int main()        
@@ -256,7 +259,7 @@ int main()
 ```
 ![](/images/11.JPEG)
 ---
-## 12. To generate table of 5
+## 12. Program to generate table of 5:-
 ```C
 #include<stdio.h>
 int main(){
@@ -269,7 +272,7 @@ int main(){
 ```
 ![](/images/12.jpg)
 ---
-## 13. To make simple calculator using switch statements
+## 13. To make simple calculator using switch statements:
 ```C
 #include <stdio.h>
 int main() {
@@ -306,7 +309,7 @@ return 0;
 ```
 ![](/images/13.jpg)
 ---
-## 14. To calculate reverse of a number
+## 14. Program to calculate reverse of a number:
 ```C
 #include <stdio.h>
 int main(){
@@ -326,7 +329,7 @@ int main(){
 ```
 ![](/images/14.jpg)
 ---
-## 15. To check whether a number is palindrome or not
+## 15. To check whether a number is palindrome or not:
 ```C
 #include <stdio.h>
 int main(){
@@ -351,7 +354,7 @@ int main(){
 ```
 ![](/images/15.jpg)
 ---
-## 16. To check whether a number is prime or not
+## 16. To check whether a number is prime or not:
 ```C
 #include<stdio.h>
 int main(){
@@ -376,7 +379,7 @@ int main(){
 ![](/images/16(i).jpg)
 ![](/images/16(ii).jpg)
 ---
-## 17. To print all prime numbers between 1 to 100
+## 17. Program to print all prime numbers between 1 to 100:
 ```C
 #include<stdio.h>
 int main(){
