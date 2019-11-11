@@ -3,13 +3,14 @@
 ![](/images/Gndec.jpg)
 
 # My Details:
-### Name :- Gautam Jain
-### Branch :- CSE C1
-### Roll number :- 1915312
-## My Written Programs:-
+## Name :- Gautam Jain
+## Branch :- CSE C1
+## Roll number :- 1915312
 ## Submitted to:
 - Ms Goldendeep Kaur
-- HS Rai
+- Mr HS Rai
+
+# My Written Programs:-
 
 ## 1. To Print your name using puts():
 
