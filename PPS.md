@@ -4,7 +4,7 @@
 
 # My Details:
 ## Name :- Gautam Jain
-## Branch :- B-TECH CSE C1
+## Branch & Class-group :- B-TECH CSE C-C1
 ## College Roll number :- 1915312
 ## University Roll number :- 1905785
 ---
