@@ -1,6 +1,6 @@
 # PROGRAMMING FOR PROBLEM SOLVING.
 ## PROJECT FILE
-![](/images/Gndec.jpg)
+![College  Logo](https://www.gndec.ac.in/logo.png)
 
 # My Details:
 ## Name :- Gautam Jain
