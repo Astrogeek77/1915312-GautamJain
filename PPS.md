@@ -1,7 +1,7 @@
+![College  Logo](https://www.gndec.ac.in/logo.png)
 # PROGRAMMING FOR PROBLEM SOLVING.
 ## PROJECT FILE
-![College  Logo](https://www.gndec.ac.in/logo.png)
-
+---
 # My Details:
 ## Name :- Gautam Jain
 ## Branch & Class-group :- B-TECH CSE C-C1
